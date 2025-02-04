@@ -1,0 +1,122 @@
+[
+    {
+        "id": 1,
+        "img": "https://i.ibb.co.com/39mwXd0k/image-12.png",
+        "title": "Wireless Headphones",
+        "price": 49.99
+    },
+    {
+        "id": 2,
+        "img": "https://i.ibb.co.com/Ld54D5DS/image-13.png",
+        "title": "Smart Watch",
+        "price": 99.99
+    },
+    {
+        "id": 3,
+        "img": "https://i.ibb.co.com/JjjwfWJC/image-14.png",
+        "title": "Bluetooth Speaker",
+        "price": 39.99
+    },
+    {
+        "id": 4,
+        "img": "https://i.ibb.co.com/0jnj9pbn/image-15.png",
+        "title": "Gaming Mouse",
+        "price": 29.99
+    },
+    {
+        "id": 5,
+        "img": "https://example.com/product5.jpg",
+        "title": "Mechanical Keyboard",
+        "price": 79.99
+    },
+    {
+        "id": 6,
+        "img": "https://example.com/product6.jpg",
+        "title": "LED Desk Lamp",
+        "price": 25.99
+    },
+    {
+        "id": 7,
+        "img": "https://example.com/product7.jpg",
+        "title": "Portable Power Bank",
+        "price": 45.99
+    },
+    {
+        "id": 8,
+        "img": "https://example.com/product8.jpg",
+        "title": "Wireless Earbuds",
+        "price": 59.99
+    },
+    {
+        "id": 9,
+        "img": "https://example.com/product9.jpg",
+        "title": "4K Action Camera",
+        "price": 119.99
+    },
+    {
+        "id": 10,
+        "img": "https://example.com/product10.jpg",
+        "title": "Smartphone Tripod",
+        "price": 35.99
+    },
+    {
+        "id": 11,
+        "img": "https://example.com/product11.jpg",
+        "title": "Fitness Tracker",
+        "price": 54.99
+    },
+    {
+        "id": 12,
+        "img": "https://example.com/product12.jpg",
+        "title": "USB-C Hub",
+        "price": 32.99
+    },
+    {
+        "id": 13,
+        "img": "https://example.com/product13.jpg",
+        "title": "External Hard Drive",
+        "price": 89.99
+    },
+    {
+        "id": 14,
+        "img": "https://example.com/product14.jpg",
+        "title": "Portable SSD",
+        "price": 129.99
+    },
+    {
+        "id": 15,
+        "img": "https://example.com/product15.jpg",
+        "title": "Wireless Charging Pad",
+        "price": 22.99
+    },
+    {
+        "id": 16,
+        "img": "https://example.com/product16.jpg",
+        "title": "Laptop Cooling Pad",
+        "price": 27.99
+    },
+    {
+        "id": 17,
+        "img": "https://example.com/product17.jpg",
+        "title": "Noise-Canceling Headphones",
+        "price": 149.99
+    },
+    {
+        "id": 18,
+        "img": "https://example.com/product18.jpg",
+        "title": "Wireless Keyboard",
+        "price": 64.99
+    },
+    {
+        "id": 19,
+        "img": "https://example.com/product19.jpg",
+        "title": "Digital Drawing Tablet",
+        "price": 199.99
+    },
+    {
+        "id": 20,
+        "img": "https://example.com/product20.jpg",
+        "title": "VR Headset",
+        "price": 299.99
+    }
+]
