@@ -1,0 +1,63 @@
+[
+    {
+        "id": 1,
+        "img": "https://i.ibb.co.com/FqX9Rhpt/image-3.png",
+        "title": "New Fashion Sneakers for Girls",
+        "price": 49.99
+    },
+    {
+        "id": 2,
+        "img": "https://i.ibb.co.com/TDm8HSHN/image-4.png",
+        "title": "BellaSoft Ballet Flats",
+        "price": 99.99
+    },
+    {
+        "id": 3,
+        "img": "https://i.ibb.co.com/ZzLJMZxq/image-5.png",
+        "title": "GlitterGlow Party Shoes",
+        "price": 39.99
+    },
+    {
+        "id": 4,
+        "img": "https://i.ibb.co.com/Tq0WXt15/image-6.png",
+        "title": "DaisyWalk Comfort Sandals",
+        "price": 29.99
+    },
+    {
+        "id": 5,
+        "img": "https://example.com/product5.jpg",
+        "title": "Mechanical Keyboard",
+        "price": 79.99
+    },
+    {
+        "id": 6,
+        "img": "https://example.com/product6.jpg",
+        "title": "LED Desk Lamp",
+        "price": 25.99
+    },
+    {
+        "id": 7,
+        "img": "https://example.com/product7.jpg",
+        "title": "Portable Power Bank",
+        "price": 45.99
+    },
+    {
+        "id": 8,
+        "img": "https://example.com/product8.jpg",
+        "title": "Wireless Earbuds",
+        "price": 59.99
+    },
+    {
+        "id": 9,
+        "img": "https://example.com/product9.jpg",
+        "title": "4K Action Camera",
+        "price": 119.99
+    },
+    {
+        "id": 10,
+        "img": "https://example.com/product10.jpg",
+        "title": "Smartphone Tripod",
+        "price": 35.99
+    }
+
+]

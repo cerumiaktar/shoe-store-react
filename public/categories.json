@@ -1,0 +1,52 @@
+[
+    {
+        "id": 1,
+        "img": "https://i.ibb.co.com/y0QTMcj/image-6-1.png",
+        "title": "Mens"
+    },
+    {
+        "id": 2,
+        "img": "https://i.ibb.co.com/ZVZvwt4/image-2-2.png",
+        "title": "Womens"
+    },
+    {
+        "id": 3,
+        "img": "https://i.ibb.co.com/DzWQc01/image-5-1.png",
+        "title": "Kids"
+    },
+    {
+        "id": 4,
+        "img": "https://i.ibb.co.com/Y8GXY65/image-4-1.png",
+        "title": "Accessories"
+    },
+    {
+        "id": 5,
+        "img": "https://i.ibb.co.com/fVmRTnc1/image-6-2.png",
+        "title": "Watch"
+    },
+    {
+        "id": 6,
+        "img": "https://i.ibb.co.com/YFNS4nLm/image-6-3.png",
+        "title": "Sunglass"
+    },
+    {
+        "id": 7,
+        "img": "https://example.com/image7.jpg",
+        "title": "Adjustable Pet Harness"
+    },
+    {
+        "id": 8,
+        "img": "https://example.com/image8.jpg",
+        "title": "Pet Water Fountain"
+    },
+    {
+        "id": 9,
+        "img": "https://example.com/image9.jpg",
+        "title": "Fish Tank Decorations"
+    },
+    {
+        "id": 10,
+        "img": "https://example.com/image10.jpg",
+        "title": "Bird Cage Accessories"
+    }
+]
