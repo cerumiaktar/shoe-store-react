@@ -1,25 +1,25 @@
 [
     {
         "id": 1,
-        "img": "https://example.com/product1.jpg",
+        "img": "https://i.ibb.co.com/yGTJ31j/image-16.png",
         "title": "Wireless Headphones",
         "price": 49.99
     },
     {
         "id": 2,
-        "img": "https://example.com/product2.jpg",
+        "img": "https://i.ibb.co.com/cSdGgfDC/image-17.png",
         "title": "Smart Watch",
         "price": 99.99
     },
     {
         "id": 3,
-        "img": "https://example.com/product3.jpg",
+        "img": "https://i.ibb.co.com/Hfkwj57S/image-18.png",
         "title": "Bluetooth Speaker",
         "price": 39.99
     },
     {
         "id": 4,
-        "img": "https://example.com/product4.jpg",
+        "img": "https://i.ibb.co.com/d0k1Z7km/image-19.png",
         "title": "Gaming Mouse",
         "price": 29.99
     },
